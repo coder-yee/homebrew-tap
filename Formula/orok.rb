@@ -1,8 +1,8 @@
 class Orok < Formula
   desc "Manage dedicated SSH keys for GitHub repositories"
   homepage "https://github.com/coder-yee/one-repo-one-key"
-  url "https://github.com/coder-yee/one-repo-one-key/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "a8b9c1cbd98c9abe2f2936aee783ba9d0db8e05dd20899a60ce654e0ac5fb537"
+  url "https://github.com/coder-yee/one-repo-one-key/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "8c1922dcd11dc6ef994208cb99b4b5ac37de91344853fbe3cc5f228b8b6b122c"
   license "Apache-2.0"
 
   uses_from_macos "bash"
